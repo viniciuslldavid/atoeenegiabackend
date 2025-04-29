@@ -123,7 +123,7 @@ const express = require('express');
              <body>
                <div class="container">
                  <div class="header">
-                   <img src="https://www.atoenergia.com/logo.png" alt="Ato Energia Logo" />
+                   <img src="https://solutudo-cdn.s3-sa-east-1.amazonaws.com/prod/adv_ads/62b31950-8c24-4af2-b5ab-79a7ac1e09ff/62ff8c4f-27a8-4cdb-9226-33f8ac1e09ff.png" alt="Ato Energia Logo" />
                  </div>
                  <div class="content">
                    <h2>Nova Mensagem de Contato</h2>
