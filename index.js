@@ -7,7 +7,7 @@ const express = require('express');
 
      // Configura CORS
      app.use(cors({
-       origin: ['http://localhost:5173', 'https://aotenergia.netlify.app']
+       origin: ['http://localhost:5173', 'https://atoenergia.netlify.app']
      }));
      app.use(express.json());
 
